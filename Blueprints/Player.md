@@ -1,8 +1,6 @@
-# 🧍 Blueprinty hráče (Player)
+# Blueprint: Držení a animace objektů (Held Object Animations)
 
-Tato část dokumentace popisuje blueprinty,
-které se starají o **pohyb, animace a kameru hráče**.
-
+Tento Blueprint v **ALS_CharacterBP** řídí dynamické přepínání animací držaných objektů (zbraně, pochodně, bedny atd.) pomocí overlay stavů v animátoru.
 ---
 
 ## 🎮 Player Movement Blueprint
@@ -12,16 +10,16 @@ které se starají o **pohyb, animace a kameru hráče**.
 ![Player Movement](IMG/Pohyb/treti_pohyb.png)
 
 ### Popis funkce
-Tento blueprint zajišťuje:
-- pohyb hráče dopředu, dozadu a do stran,
-- skákání postavy,
-- základní ovládání pomocí klávesnice.
+Zajišťuje:
+- Přepínání overlay animací podle typu držaného objektu (rifle, pistole, pochodně, binokulár, bedna...).
+- Aktualizaci spine rotace a připojení meshů k rukám.
+- Kompatibilitu s mužskými/ženskými/injured postoji.
 
 ### Jak funguje
-- Vstupy z klávesnice jsou zpracovány pomocí Input Actions.
-- Pohyb je řešen pomocí Character Movement komponenty.
-- Skok je aktivován při stisknutí příslušné klávesy.
-
+- **Event Update Held Object** spouští **On Update Held Object Animations** (implementable event).
+- **Switch on EALOverlayState** vybere stav podle aktuálního objektu (Masculine/Feminine/Injured, Rifle, Pistol 1/2 Handed, Torch, Binoculars, Box, Barrel).
+- **Get Anim Instance → Cast to ALS_AnimBP** → **Get Anim Curve Value "Enable_SpineRotation"** → **Set** na Skeletal Mesh (umožňuje rotaci páteře).
+- Další uzly řídí **Attach to Hand**, **Target Arm Mesh**, **Blend Poses** pro plynulý přechod.
 ---
 
 ## 🎞 Animace postavy
