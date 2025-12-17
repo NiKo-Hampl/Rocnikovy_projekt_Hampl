@@ -9,6 +9,7 @@ pro detekci pádu hráče a dokončení hry.
 
 ![Trigger Box ve hře](../IMG/TriggerBoxy/TriggerBox.png)
 
+
 ### Popis
 Tento Trigger Box je umístěn pod herní mapou a slouží k detekci pádu hráče.
 
