@@ -3,7 +3,7 @@
 Tento Blueprint v **ALS_CharacterBP** řídí dynamické přepínání animací držaných objektů (zbraně, pochodně, bedny atd.) pomocí overlay stavů v animátoru.
 ---
 
-## 🎮 Player Movement Blueprint
+## 🎮 Player základní animace Blueprint
 
 ![Player Movement](IMG/Pohyb/prvni_pohyb.png)
 ![Player Movement](IMG/Pohyb/druhy_pohyb.png)
