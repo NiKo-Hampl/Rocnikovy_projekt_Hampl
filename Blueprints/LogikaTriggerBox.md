@@ -6,8 +6,7 @@ pro detekci pádu hráče a dokončení hry.
 ---
 
 ## ❌ Trigger Box – Game Over (pád hráče)
-
-![Trigger Box ve hře](../IMG/TriggerBoxy/TriggerBox.png)
+![Trigger Box ve hře](IMG/TriggerBoxy/TriggerBox.png)
 
 
 ### Popis
