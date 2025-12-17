@@ -48,8 +48,8 @@ Blueprint propojuje:
 
 ## 🎥 Third Person Camera
 
-![Third person Camera](IMG/kamera/Kamera_anim.png)
-![Third person Camera](IMG/kamera/Kamera_popis.png)
+![Third person Camera](IMG/Kamera/Kamera_anim.png)
+![Third person Camera](IMG/Kamera/Kamera_popis.png)
 
 ### Popis funkce
 Tento blueprint zajišťuje:
