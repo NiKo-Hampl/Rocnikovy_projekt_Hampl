@@ -7,13 +7,12 @@ Blueprinty jsou rozděleny podle jejich funkce ve hře.
 
 ---
 
-## 📁 Player
+##  Player
 Blueprinty týkající se:
 - pohybu hráče
 - animací
 - kamery třetí osoby
 
-➡️ Viz složka `Player/`
 
 ---
 
