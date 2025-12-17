@@ -61,3 +61,28 @@ Tento blueprint zajišťuje:
 - Spring Arm zabraňuje průniku kamery do objektů pomocí **collision testu**.
 - Při pohybu hráče se kamera hladce interpoluje, aby sledování bylo plynulé a nepůsobilo trhaně.
 
+---
+### ⌨️ Ovládání hráče – Enhanced Input System
+
+Projekt používá moderní **Enhanced Input System** (UE5), který nahrazuje staré Action/Axis Mappings.
+
+Klávesy a akce jsou definovány pomocí:
+- **Input Actions** – samostatné data assety pro každou akci
+- **Input Mapping Context** – přiřazuje klávesy k akcím (IMC_Default pro základní ovládání)
+
+![Seznam Input Actions](IMG/PlayerMovement/input_actions_list.png)
+
+Klíčové akce:
+- **ForwardMovement / RightMovement** – pohyb (WASD)
+- **LookingDirection** – otáčení kamery (myš)
+- **SprintAction** – běh (Shift)
+- **JumpAction** – skok (Mezerník)
+- **StanceAction** – dřep/crouch (Ctrl)
+- **AimAction** – míření (pravé tlačítko myši)
+
+![Input Mapping Contexts](IMG/PlayerMovement/mapping_contexts.png)
+
+Hlavní context **IMC_Default** je přidán při startu hry (v Player Controller nebo Character BeginPlay) a obsahuje všechny standardní klávesové zkratky.
+
+Tento systém umožňuje snadnou úpravu ovládání a podporu gamepadů bez změny kódu.
+
