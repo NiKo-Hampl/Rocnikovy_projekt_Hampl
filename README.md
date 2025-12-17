@@ -105,16 +105,16 @@ Projekt je vypracován **individuálně**.
 ---
 
 ## 8. Zdroje a citace
-(1) CITACE.COM, S.R.O. Citace.com. Online. © 2024. Dostupné z: [https://www.citace.com/](https://www.citace.com/). [cit. 2025-12-17].
+(1) CITACE.COM, S.R.O. Citace.com. Online. © 2025. Dostupné z: [https://www.citace.com/](https://www.citace.com/). [cit. 2025-12-17].
 
-(2) GITHUB, INC. GitHub. Online. © 2024. Dostupné z: [https://github.com/](https://github.com/). [cit. 2025-12-17].
+(2) GITHUB, INC. GitHub. Online. © 2025. Dostupné z: [https://github.com/](https://github.com/). [cit. 2025-12-17].
 
-(3) OPENAI, ChatGPT. Online. Https://chatgpt.com/. Dostupné z: https://chatgpt.com/. [cit. 2025-12-17].
+(3) OPENAI, ChatGPT. Online. © 2025. Dostupné z: https://chatgpt.com/. [cit. 2025-12-17].
 
 ---
 
 ## 9. Literatura
-[1] Markdown Guide. Online. © 2024. Dostupné z: [https://www.markdownguide.org/](https://www.markdownguide.org/). [cit. 2025-12-17].
+[1] Markdown Guide. Online. © 2025. Dostupné z: [https://www.markdownguide.org/](https://www.markdownguide.org/). [cit. 2025-12-17].
 
 
 ---
