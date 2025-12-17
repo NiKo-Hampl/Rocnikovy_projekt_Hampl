@@ -17,7 +17,7 @@ Blueprinty týkající se:
 
 ---
 
-## TriggerBoxy
+## LogikaTriggerBox
 Blueprinty zajišťující:
 - pád hráče (Game Over)
 - dokončení hry (You Won)
