@@ -12,4 +12,5 @@ Tento Blueprint zajišťuje nepřetržitou rotaci Static Mesh objektu (kamene) k
 
 Výsledek: Kámen se plynule otáčí vertikálně konstantní rychlostí – ideální pro levitující objekty.
 
-![Blueprint točícího se kamene](IMG/TriggerBoxy/blueprint_triggerBoxu.png)
+![Blueprint točícího se kamene](IMG/Kamen/kamenBP.png)
+![Blueprint točícího se kamene](IMG/Kamen/kamen_hra.png)
