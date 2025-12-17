@@ -7,7 +7,7 @@ které se starají o **pohyb, animace a kameru hráče**.
 
 ## 🎮 Player Movement Blueprint
 
-![Player Movement](movement.png)
+![Player Movement](IMG/Pohyb/prvni_pohyb.png)
 
 ### Popis funkce
 Tento blueprint zajišťuje:
