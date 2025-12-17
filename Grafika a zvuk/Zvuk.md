@@ -12,7 +12,7 @@ Tyto zvuky běží nepřetržitě a vytvářejí atmosféru pouštního prostře
 - **Starter_Wind06** – silnější vítr
 
 V MetaSounds jsou tyto tři looping Wave Playery (Birds01, Wind05, Wind06) připojeny přes samostatné Modulátory do Mixeru, který je vyveden na hlavní Output. Zvuky tak hrají současně a lze je individuálně ovládat hlasitostí.
-![Ambientní zvuky – MetaSounds](./podkres.png)
+![Ambientní zvuky](IMG_zvuk/Zvuk/podkres.png)
 ![Ambientní zvuky – MetaSounds](Blueprints/IMG/Zvuk/podkresBP.png)
 
 ### Zvuky kroků hráče (Footsteps)
