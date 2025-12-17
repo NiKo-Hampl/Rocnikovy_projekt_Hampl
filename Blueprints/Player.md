@@ -35,3 +35,22 @@ Blueprint propojuje:
 ### Jak funguje
 - Rychlost postavy se přenáší do Animation Blueprintu.
 - Podle hodnot se přepínají animace chůze, běhu a skoku.
+
+---
+
+## 🎥 Third Person Camera
+
+![Third Person Camera](camera.png)
+
+### Popis funkce
+Tento blueprint zajišťuje:
+- sledování hráče z pohledu třetí osoby,
+- plynulé otáčení kolem postavy podle vstupu myši nebo gamepadu,
+- možnost přibližování a oddalování kamery.
+
+### Jak funguje
+- Kamera je připojena k **Spring Arm komponentě**, která udržuje určitou vzdálenost od hráče.
+- Rotace kamery se ovládá podle vstupů z **Input Axis** (myš / analogový joystick).
+- Spring Arm zabraňuje průniku kamery do objektů pomocí **collision testu**.
+- Při pohybu hráče se kamera hladce interpoluje, aby sledování bylo plynulé a nepůsobilo trhaně.
+
