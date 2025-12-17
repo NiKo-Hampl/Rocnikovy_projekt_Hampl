@@ -71,7 +71,7 @@ Projekt používá moderní **Enhanced Input System** (UE5), který nahrazuje st
 - **Input Actions** – samostatné data assety pro každou akci
 - **Input Mapping Context** – přiřazuje klávesy k akcím (IMC_Default pro základní ovládání)
 
-![Seznam Input Actions](IMG/pohyb2/movemntm.png)
+![Seznam Input Actions](IMG/pohyb2/movementm.png)
 
 ### Klíčové akce:
 - **ForwardMovement / RightMovement** – pohyb (WASD)
@@ -81,7 +81,7 @@ Projekt používá moderní **Enhanced Input System** (UE5), který nahrazuje st
 - **StanceAction** – dřep/crouch (Ctrl)
 - **AimAction** – míření (pravé tlačítko myši)
 
-![Input Mapping Contexts]IMG/pohyb2/movemntv.png)
+![Input Mapping Contexts](IMG/pohyb2/movementv.png)
 
 Hlavní context **IMC_Default** je přidán při startu hry (v Player Controller nebo Character BeginPlay) a obsahuje všechny standardní klávesové zkratky.
 
