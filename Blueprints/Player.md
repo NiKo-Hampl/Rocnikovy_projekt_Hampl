@@ -62,17 +62,17 @@ Tento blueprint zajišťuje:
 - Při pohybu hráče se kamera hladce interpoluje, aby sledování bylo plynulé a nepůsobilo trhaně.
 
 ---
-### ⌨️ Ovládání hráče – Enhanced Input System
+## ⌨️ Ovládání hráče – Enhanced Input System
 
 Projekt používá moderní **Enhanced Input System** (UE5), který nahrazuje staré Action/Axis Mappings.
 
-Klávesy a akce jsou definovány pomocí:
+### Klávesy a akce jsou definovány pomocí:
 - **Input Actions** – samostatné data assety pro každou akci
 - **Input Mapping Context** – přiřazuje klávesy k akcím (IMC_Default pro základní ovládání)
 
 ![Seznam Input Actions](IMG/PlayerMovement/input_actions_list.png)
 
-Klíčové akce:
+### Klíčové akce:
 - **ForwardMovement / RightMovement** – pohyb (WASD)
 - **LookingDirection** – otáčení kamery (myš)
 - **SprintAction** – běh (Shift)
