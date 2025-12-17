@@ -7,6 +7,7 @@ Tato část dokumentuje **uživatelské rozhraní hry**.
 ## ❌ Game Over Widget
 
 ![Game Over Widget](IMG/Widgety/konecBP.png)
+![Game Over Widget](IMG/Widgety/konec_z_hry.png)
 
 ### Obsah widgetu
 - Text „Game Over“
@@ -21,7 +22,9 @@ Tato část dokumentuje **uživatelské rozhraní hry**.
 
 ## ✅ You Won Widget
 
-![You Won Widget](you_won_widget.png)
+![You Won Widget](IMG/Widgety/wonBP.png)
+![You Won Widget](IMG/Widgety/won_z_hry.png)
+
 
 ### Obsah widgetu
 - Text „You Won“
