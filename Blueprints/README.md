@@ -25,9 +25,14 @@ Blueprinty zajišťující:
 
 ---
 
-## 📁 UI
+## Widgety
 Blueprinty uživatelského rozhraní:
 - Game Over widget
 - You Won widget
 
-➡️ Viz složka `UI/`
+---
+## Rotating stone
+Blueprint točícího se kamene:
+- Těžší překážka než ty statické
+
+
