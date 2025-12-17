@@ -26,8 +26,14 @@ Tento blueprint zajišťuje:
 
 ## 🎞 Animace postavy
 
-![Player Animation](animation.png)
-
+![Player Animation](IMG/animace/anim1.png)
+![Player Animation](IMG/animace/anim2.png)
+![Player Animation](IMG/animace/anim3.png)
+![Player Animation](IMG/animace/anim4.png)
+![Player Animation](IMG/animace/anim5.png)
+![Player Animation](IMG/animace/anim6.png)
+![Player Animation](IMG/animace/anim7.png)
+![Player Animation](IMG/animace/anim8.png)
 ### Popis funkce
 Blueprint propojuje:
 - rychlost pohybu hráče
