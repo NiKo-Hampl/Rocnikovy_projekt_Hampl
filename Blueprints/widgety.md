@@ -6,7 +6,7 @@ Tato část dokumentuje **uživatelské rozhraní hry**.
 
 ## ❌ Game Over Widget
 
-![Game Over Widget](game_over_widget.png)
+![Game Over Widget](IMG/Widgety/konecBP.png)
 
 ### Obsah widgetu
 - Text „Game Over“
