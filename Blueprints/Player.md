@@ -62,6 +62,7 @@ Tento blueprint zajišťuje:
 - Při pohybu hráče se kamera hladce interpoluje, aby sledování bylo plynulé a nepůsobilo trhaně.
 
 ---
+
 ## ⌨️ Ovládání hráče – Enhanced Input System
 
 Projekt používá moderní **Enhanced Input System** (UE5), který nahrazuje staré Action/Axis Mappings.
@@ -70,7 +71,7 @@ Projekt používá moderní **Enhanced Input System** (UE5), který nahrazuje st
 - **Input Actions** – samostatné data assety pro každou akci
 - **Input Mapping Context** – přiřazuje klávesy k akcím (IMC_Default pro základní ovládání)
 
-![Seznam Input Actions](IMG/PlayerMovement/input_actions_list.png)
+![Seznam Input Actions](IMG/pohyb2/movemntm.png)
 
 ### Klíčové akce:
 - **ForwardMovement / RightMovement** – pohyb (WASD)
@@ -80,7 +81,7 @@ Projekt používá moderní **Enhanced Input System** (UE5), který nahrazuje st
 - **StanceAction** – dřep/crouch (Ctrl)
 - **AimAction** – míření (pravé tlačítko myši)
 
-![Input Mapping Contexts](IMG/PlayerMovement/mapping_contexts.png)
+![Input Mapping Contexts]IMG/pohyb2/movemntv.png)
 
 Hlavní context **IMC_Default** je přidán při startu hry (v Player Controller nebo Character BeginPlay) a obsahuje všechny standardní klávesové zkratky.
 
