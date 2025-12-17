@@ -18,14 +18,14 @@ Pokud hráč spadne mimo herní plochu:
 
 ---
 
-## 🧠 Blueprint Trigger Boxu – Game Over
+## 🧠 Blueprinty Trigger Boxů – Game Over
 ![Blueprint Trigger Boxu](IMG/TriggerBoxy/blueprint_triggerBoxu.png)
 
-### Jak blueprint funguje
+### Jak blueprint fungují
 - Trigger Box detekuje vstup hráče pomocí `OnActorBeginOverlap`.
 - Po aktivaci:
   - hra se pozastaví,
-  - zobrazí se UI widget **Game Over**,
+  - zobrazí se UI widget **Game Over**,nebo UI widget **You Won**,
   - hráč má možnost restartovat hru nebo ji ukončit.
 
 ---
