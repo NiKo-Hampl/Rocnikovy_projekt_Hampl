@@ -105,7 +105,9 @@ Projekt je vypracován **individuálně**.
 ---
 
 ## 8. Zdroje a citace
+(1) CITACE.COM, S.R.O. Citace.com. Online. © 2024. Dostupné z: [https://www.citace.com/](https://www.citace.com/). [cit. 2025-12-17].
 
+(2) GITHUB, INC. GitHub. Online. © 2024. Dostupné z: [https://github.com/](https://github.com/). [cit. 2025-12-17].
 
 ---
 
