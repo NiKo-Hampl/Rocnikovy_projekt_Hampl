@@ -109,6 +109,8 @@ Projekt je vypracován **individuálně**.
 
 (2) GITHUB, INC. GitHub. Online. © 2024. Dostupné z: [https://github.com/](https://github.com/). [cit. 2025-12-17].
 
+(3) OPENAI, ChatGPT. Online. Https://chatgpt.com/. Dostupné z: https://chatgpt.com/. [cit. 2025-12-17].
+
 ---
 
 ## 9. Literatura
