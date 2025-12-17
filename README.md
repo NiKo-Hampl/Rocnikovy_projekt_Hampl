@@ -111,5 +111,11 @@ Projekt je vypracován **individuálně**.
 
 ---
 
-## 9. Poděkování
+## 9. Literatura
+[1] Markdown Guide. Online. © 2024. Dostupné z: [https://www.markdownguide.org/](https://www.markdownguide.org/). [cit. 2025-12-17].
+
+
+---
+
+## 10. Poděkování
 Děkuji autorům online tutoriálů, dokumentací a komunitě, jejichž materiály mi pomohly při tvorbě tohoto projektu.
