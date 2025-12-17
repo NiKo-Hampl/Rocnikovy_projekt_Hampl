@@ -9,7 +9,7 @@ Tento dokument popisuje knihovny (Assets / obsah) použité v našem projektu sk
 ### 1. Ancient_Pillars
 - **Typ:** Environment / Props  
 - **Popis:** Obsahuje starobylé pilíře a kamenné struktury, vhodné pro dekoraci prostředí.  
-- **Použití ve hře:** [Zatím nepoužito].  
+- **Použití ve hře:** Zatím nepoužito.  
 
 ---
 
