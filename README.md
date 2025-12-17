@@ -95,7 +95,7 @@ Do budoucna by bylo možné projekt rozšířit například o:
 - časomíru nebo bodovací systém,
 - obtížnější překážky,
 - lepší grafiku a efekty,
-- zvuky a hudbu.
+- dalsí zvuky a podkresovou hudbu.
 
 ---
 
@@ -105,11 +105,7 @@ Projekt je vypracován **individuálně**.
 ---
 
 ## 8. Zdroje a citace
-- Oficiální dokumentace herního enginu
-- Online tutoriály a výuková videa (např. YouTube)
-- Komunitní fóra a články
 
-Veškeré použité zdroje budou uvedeny v repozitáři projektu.
 
 ---
 
