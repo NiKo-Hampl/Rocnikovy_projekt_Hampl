@@ -31,11 +31,3 @@ Blueprinty uživatelského rozhraní:
 - You Won widget
 
 ➡️ Viz složka `UI/`
-
----
-
-## 📁 Screenshots
-Snímky ze hry, které ukazují:
-- pád hráče
-- dokončení hry
-- vzhled UI ve hře
