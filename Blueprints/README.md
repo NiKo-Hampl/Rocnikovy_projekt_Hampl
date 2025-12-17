@@ -17,13 +17,12 @@ Blueprinty týkající se:
 
 ---
 
-## 📁 GameLogic
+## TriggerBoxy
 Blueprinty zajišťující:
 - pád hráče (Game Over)
 - dokončení hry (You Won)
 - restart a ukončení hry
 
-➡️ Viz složka `GameLogic/`
 
 ---
 
