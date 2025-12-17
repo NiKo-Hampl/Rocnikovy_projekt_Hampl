@@ -13,7 +13,8 @@ Tyto zvuky běží nepřetržitě a vytvářejí atmosféru pouštního prostře
 
 V MetaSounds jsou tyto tři looping Wave Playery (Birds01, Wind05, Wind06) připojeny přes samostatné Modulátory do Mixeru, který je vyveden na hlavní Output. Zvuky tak hrají současně a lze je individuálně ovládat hlasitostí.
 
-![Ambientní zvuky – MetaSounds](IMG/Zvuky/ambient_metasound.png)
+![Ambientní zvuky – MetaSounds](IMG/Zvuk/podkres.png)
+![Ambientní zvuky – MetaSounds](IMG/Zvuk/podkresBP.png)
 
 ### Zvuky kroků hráče (Footsteps)
 
@@ -30,7 +31,8 @@ V každém Sound Cue je několik Wave Playerů připojeno přes Modulátor do **
 
 Všechny čtyři kategorie jsou pak připojeny do jednoho hlavního **Switch (FootstepType)**, který podle parametru (0–3) vybere správnou kategorii zvuku při přehrání.
 
-![Zvuky kroků – MetaSounds](IMG/Zvuky/footsteps_metasound.png)
+![Zvuky kroků – MetaSounds](IMG/Zvuk/steps.png)
+![Zvuky kroků – MetaSounds](IMG/Zvuk/stepsBP.png)
 
 Tento systém zajišťuje variabilitu kroků a eliminuje opakující se stejné zvuky při pohybu hráče.
 
