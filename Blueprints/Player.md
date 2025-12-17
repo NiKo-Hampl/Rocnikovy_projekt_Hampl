@@ -8,6 +8,8 @@ které se starají o **pohyb, animace a kameru hráče**.
 ## 🎮 Player Movement Blueprint
 
 ![Player Movement](IMG/Pohyb/prvni_pohyb.png)
+![Player Movement](IMG/Pohyb/druhy_pohyb.png)
+![Player Movement](IMG/Pohyb/treti_pohyb.png)
 
 ### Popis funkce
 Tento blueprint zajišťuje:
