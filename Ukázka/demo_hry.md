@@ -12,4 +12,4 @@ Ve videu je možné vidět:
 ---
 
 🎥 **Gameplay video:**  
-[Zhlédnout video na YouTube](https://www.youtube.com/watch?v=4M8QvQz-Dv8)
+[Video ukázka hry jak vypadá](https://www.youtube.com/watch?v=4M8QvQz-Dv8)
