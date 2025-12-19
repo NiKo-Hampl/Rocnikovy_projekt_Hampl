@@ -4,7 +4,7 @@ Tato videoherní ukázka představuje aktuální stav projektu vyvíjeného v **
 
 Ve videu je možné vidět:
 
-- Pohyb postavy a ovládání z pohledu hráče  
+- Pohyb postavy a ovládání z pohledu třetí osoby  
 - Práci s prostředím vytvořeným pomocí nástrojů UE5 *(osvětlení, stíny, geometrie)*  
 - Základní herní systémy a logiku implementovanou pomocí **Blueprintů**  
 - Celkovou atmosféru a směr, kterým se hra v průběhu vývoje ubírá
