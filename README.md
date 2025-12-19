@@ -113,6 +113,8 @@ Projekt je vypracován **individuálně**.
 
 (4) Grok. Online. Grok.com. Dostupné z: https://grok.com/. [cit. 2025-12-19].
 
+(5) Fab. Online. Www.fab.com. Dostupné z: https://www.fab.com/. [cit. 2025-12-19].
+
 ---
 
 ## 9. Literatura
