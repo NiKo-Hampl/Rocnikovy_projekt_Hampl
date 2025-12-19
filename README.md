@@ -119,6 +119,8 @@ Projekt je vypracován **individuálně**.
 
 (7) Video tutorial. Online. Dostupné z: https://www.youtube.com/watch?v=e_SPuvO_l1w&t=127s. [cit. 2025-12-19].
 
+(8) Video návod 2. Online. Dostupné z: https://www.youtube.com/watch?v=LrExuqVQDb4. [cit. 2025-12-19].
+
 ---
 
 ## 9. Literatura
