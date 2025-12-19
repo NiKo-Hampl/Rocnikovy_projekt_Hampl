@@ -115,6 +115,10 @@ Projekt je vypracován **individuálně**.
 
 (5) Fab. Online. fab.com. Dostupné z: https://www.fab.com/. [cit. 2025-12-19].
 
+(6) Video návod. Online. Dostupné z: https://www.youtube.com/watch?v=IPQldaLLx_Y&t=377s. [cit. 2025-12-19].
+
+(7) Video tutorial. Online. Dostupné z: https://www.youtube.com/watch?v=e_SPuvO_l1w&t=127s. [cit. 2025-12-19].
+
 ---
 
 ## 9. Literatura
