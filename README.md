@@ -111,6 +111,8 @@ Projekt je vypracován **individuálně**.
 
 (3) OPENAI, ChatGPT. Online. © 2025. Dostupné z: https://chatgpt.com/. [cit. 2025-12-17].
 
+(4) Grok. Online. Grok.com. Dostupné z: https://grok.com/. [cit. 2025-12-19].
+
 ---
 
 ## 9. Literatura
